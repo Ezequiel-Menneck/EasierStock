@@ -1,13 +1,13 @@
-package com.easierstock.easierstock;
+package com.menneck.SimpleSpringSecurityJWT;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EasierStockApplication {
+public class SimpleSpringSecurityJWT {
 
     public static void main(String[] args) {
-        SpringApplication.run(EasierStockApplication.class, args);
+        SpringApplication.run(SimpleSpringSecurityJWT.class, args);
     }
 
 }

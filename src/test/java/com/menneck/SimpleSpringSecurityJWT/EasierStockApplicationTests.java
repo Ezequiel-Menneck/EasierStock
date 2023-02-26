@@ -1,4 +1,4 @@
-package com.easierstock.easierstock;
+package com.menneck.SimpleSpringSecurityJWT;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
